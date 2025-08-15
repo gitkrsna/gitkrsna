@@ -9,9 +9,9 @@
 - 🌐 I specialize in **JavaScript**, **Python**, and full stack development.
 - 🤖 Currently exploring the world of **Agentic AI development**.
 - 🛠️ Creator of [PrepBaba.in](https://prepbaba.in) — building AI-driven tools for learners and aspirants.
-- 🥋 Proud holder of the **Blue Belt in GenAI**  
-  [![Blue Belt in GenAI](https://images.credly.com/size/340x340/images/0e070aac-8606-48c2-a923-63a96d4e0fe7/image.png)](https://www.credly.com/badges/0e070aac-8606-48c2-a923-63a96d4e0fe7/public_url)  
-  View credential: https://www.credly.com/badges/0e070aac-8606-48c2-a923-63a96d4e0fe7/public_url
+- 🥋 **Blue Belt in GenAI**  
+  [![Blue Belt in GenAI](https://img.shields.io/badge/Blue%20Belt-GenAI-blue?style=flat-square&logo=OpenAI&logoColor=white)](https://www.credly.com/badges/0e070aac-8606-48c2-a923-63a96d4e0fe7/public_url)  
+  [View credential](https://www.credly.com/badges/0e070aac-8606-48c2-a923-63a96d4e0fe7/public_url)
 - 🎶 I love coding and music — creativity fuels my work and life.
 - 🧘 I love philosophy and deep conversations about life, tech, and everything in between.
 
