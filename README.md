@@ -27,7 +27,7 @@
 ## 🛠️ Skills
 
 - **Languages:** JavaScript, Python
-- **Frameworks / Tools:** React, Next.js, Node.js, Express, FastAPI, factmcp, LangGraph
+- **Frameworks / Tools:** Next.js, Node.js, FastAPI, FastMCP, LangGraph
 - **Specialties:** Full Stack Development, Agentic AI, EdTech tooling
 
 ---
